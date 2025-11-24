@@ -13,16 +13,16 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 ```
-a=int(input()) 
-b=int(input()) 
-x=complex(a,b) 
-print(x) 
-print(x.real) 
+x=int(input(''))
+y=int(input(''))
+x=complex(x,y)
+print(x)
+print(x.real)
 print(x.imag)
 ```
 
 ## Output
-![438644668-e4255b78-6971-4bf6-af13-63afded805cf](https://github.com/user-attachments/assets/b33403dc-c156-45cd-8183-04fd8ce4372b)
+<img width="821" height="431" alt="image" src="https://github.com/user-attachments/assets/8454fec7-48ac-4bd3-b96a-7aa2045d9a11" />
 
 ## Result
-Thus the program has been successfully executed
+Thus, the program as been executed successfully.
